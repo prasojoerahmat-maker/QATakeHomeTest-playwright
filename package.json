@@ -9,7 +9,8 @@
     "test:ui": "playwright test --ui",
     "test:login": "playwright test tests/login.spec.js",
     "test:checkout": "playwright test tests/checkout.spec.js",
-    "report": "playwright show-report"
+    "report": "playwright show-report",
+    "test:api": "playwright test tests/api-pet.spec.js"
   },
   "keywords": [],
   "author": "",

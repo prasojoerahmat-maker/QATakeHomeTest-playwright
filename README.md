@@ -17,6 +17,11 @@ npm install
 npx playwright install chromium
 ```
 
+## Run API Test for https://petstore.swagger.io/v2
+```bash
+npm run test:api
+```
+
 ## Run all tests
 
 ```bash
